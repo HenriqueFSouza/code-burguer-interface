@@ -1,0 +1,80 @@
+Nome,ID de autorização,Data da venda,Status,Método de captura,Bandeira,Forma de pagamento,Parcelas,Moeda,Valor total,Taxas,Taxas (%),Valor recebido
+PAYWAVE/VISA,483568,28/09/2023,approved,contactless,visa,debit,1,BRL,36.80,0.51,1.39%,36.29
+PAYWAVE/VISA,481868,28/09/2023,reversed,contactless,visa,debit,1,BRL,36.80,0.51,1.39%,36.29
+LUAN ROMANO MESCUA,071465,28/09/2023,approved,emv,mastercard,debit,1,BRL,20.80,0.29,1.39%,20.51
+PAYWAVE/VISA,404314,28/09/2023,approved,contactless,visa,credit,1,BRL,14.90,0.47,3.15%,14.43
+,412388,28/09/2023,approved,contactless,visa,debit,1,BRL,27.80,0.38,1.37%,27.42
+JADE MARIA SILVA SANTOS,411774,28/09/2023,approved,emv,elo,debit,1,BRL,36.20,0.93,2.57%,35.27
+PAYWAVE/VISA,410844,28/09/2023,approved,contactless,visa,debit,1,BRL,58.70,0.81,1.38%,57.89
+,681081,28/09/2023,approved,contactless,visa,credit,1,BRL,14.40,0.46,3.19%,13.94
+,485861,27/09/2023,approved,contactless,mastercard,debit,1,BRL,30.80,0.43,1.40%,30.37
+COSTA/GRAZIELE B,899914,27/09/2023,approved,emv,mastercard,credit,1,BRL,41.40,1.31,3.16%,40.09
+,124755,27/09/2023,approved,contactless,mastercard,credit,1,BRL,20.80,0.66,3.17%,20.14
+TATIANE CARLA FACHIM BISCA,398766,27/09/2023,approved,emv,visa,debit,1,BRL,28.40,0.39,1.37%,28.01
+,726813,27/09/2023,approved,contactless,mastercard,credit,1,BRL,56.30,1.78,3.16%,54.52
+BEATRIZ MARTINS ZUC,984267,27/09/2023,approved,emv,elo,debit,1,BRL,11.90,0.31,2.61%,11.59
+,915957,27/09/2023,approved,contactless,mastercard,credit,1,BRL,17.80,0.56,3.15%,17.24
+,057064,26/09/2023,approved,contactless,mastercard,credit,1,BRL,9.00,0.28,3.11%,8.72
+,859077,26/09/2023,approved,contactless,mastercard,debit,1,BRL,37.80,0.52,1.38%,37.28
+POSSAN/ADRIANA A,023921,26/09/2023,approved,emv,mastercard,credit,1,BRL,12.00,0.38,3.17%,11.62
+ANDREA IRIS D C C TAVARES,055324,26/09/2023,approved,emv,elo,debit,1,BRL,5.00,0.13,2.60%,4.87
+,355057,26/09/2023,approved,contactless,mastercard,credit,1,BRL,31.80,1.00,3.14%,30.80
+PAYWAVE/VISA,392588,26/09/2023,approved,contactless,visa,debit,1,BRL,17.00,0.23,1.35%,16.77
+PAYWAVE/VISA,544909,26/09/2023,approved,contactless,visa,credit,1,BRL,12.00,0.38,3.17%,11.62
+,407598,26/09/2023,approved,contactless,mastercard,credit,1,BRL,7.00,0.22,3.14%,6.78
+PAYWAVE/VISA,401660,26/09/2023,approved,contactless,visa,debit,1,BRL,12.00,0.17,1.42%,11.83
+AMORIM/ANA PAULA DE,608372,26/09/2023,approved,emv,mastercard,debit,1,BRL,7.50,0.10,1.33%,7.40
+,531771,26/09/2023,approved,contactless,mastercard,credit,1,BRL,9.00,0.28,3.11%,8.72
+,021550,25/09/2023,approved,contactless,mastercard,debit,1,BRL,8.00,0.11,1.38%,7.89
+VALQUIRIA DE SOUZA FERREIR,368777,25/09/2023,approved,emv,elo,debit,1,BRL,32.70,0.84,2.57%,31.86
+,213964,25/09/2023,approved,contactless,mastercard,debit,1,BRL,13.00,0.18,1.38%,12.82
+,747773,25/09/2023,approved,contactless,mastercard,credit,1,BRL,7.00,0.22,3.14%,6.78
+,415550,24/09/2023,approved,contactless,mastercard,credit,1,BRL,39.70,1.25,3.15%,38.45
+PAYWAVE/VISA,242052,24/09/2023,approved,contactless,visa,debit,1,BRL,32.80,0.45,1.37%,32.35
+TAMIRES CHILE LOPES,338207,24/09/2023,approved,emv,elo,debit,1,BRL,19.90,0.51,2.56%,19.39
+,R70924,24/09/2023,approved,contactless,mastercard,credit,1,BRL,49.60,1.57,3.17%,48.03
+,112965,24/09/2023,approved,contactless,mastercard,credit,1,BRL,11.90,0.38,3.19%,11.52
+,355655,24/09/2023,approved,contactless,mastercard,credit,1,BRL,11.90,0.38,3.19%,11.52
+,238763,24/09/2023,approved,contactless,mastercard,debit,1,BRL,51.60,0.71,1.38%,50.89
+,427452,24/09/2023,approved,contactless,mastercard,debit,1,BRL,34.60,0.48,1.39%,34.12
+VALUED/CUSTOMER,614559,24/09/2023,approved,contactless,elo,credit,1,BRL,44.60,2.19,4.91%,42.41
+,105662,24/09/2023,approved,contactless,mastercard,debit,1,BRL,50.00,0.69,1.38%,49.31
+,836505,23/09/2023,approved,contactless,mastercard,credit,1,BRL,38.40,1.21,3.15%,37.19
+,698121,23/09/2023,approved,contactless,mastercard,debit,1,BRL,34.30,0.47,1.37%,33.83
+PAYWAVE/VISA,150184,23/09/2023,approved,contactless,visa,debit,1,BRL,67.90,0.94,1.38%,66.96
+,738879,23/09/2023,approved,contactless,mastercard,debit,1,BRL,27.70,0.38,1.37%,27.32
+,174477,23/09/2023,approved,contactless,visa,debit,1,BRL,51.20,0.71,1.39%,50.49
+KAIQUE MOURA,601808,23/09/2023,approved,emv,visa,credit,1,BRL,30.40,0.96,3.16%,29.44
+,425182,23/09/2023,approved,emv,mastercard,debit,1,BRL,39.70,0.55,1.39%,39.15
+MERCADO PAGO,643758,23/09/2023,approved,emv,visa,debit,1,BRL,63.10,0.87,1.38%,62.23
+LUCAS H G THOMAZ,015960,23/09/2023,approved,emv,mastercard,credit,1,BRL,53.20,1.68,3.16%,51.52
+,545919,22/09/2023,approved,contactless,mastercard,debit,1,BRL,31.90,0.44,1.38%,31.46
+,024773,22/09/2023,approved,emv,mastercard,debit,1,BRL,30.50,0.42,1.38%,30.08
+SERGIO TAKAYOSHI FUDO,325974,22/09/2023,approved,emv,elo,debit,1,BRL,22.50,0.58,2.58%,21.92
+323300758/JOICILENI G ALV,086845,22/09/2023,approved,emv,mastercard,debit,1,BRL,13.00,0.18,1.38%,12.82
+,623121,21/09/2023,approved,contactless,mastercard,credit,1,BRL,3.00,0.09,3.00%,2.91
+RAFAELA BARBOSA ZAM,157786,21/09/2023,approved,emv,visa,debit,1,BRL,27.90,0.39,1.40%,27.51
+,622586,21/09/2023,approved,contactless,mastercard,debit,1,BRL,47.70,0.66,1.38%,47.04
+,R48055,21/09/2023,approved,contactless,mastercard,credit,1,BRL,19.00,0.60,3.16%,18.40
+,736750,21/09/2023,approved,contactless,mastercard,credit,1,BRL,14.90,0.47,3.15%,14.43
+,483171,21/09/2023,approved,contactless,mastercard,credit,1,BRL,13.90,0.44,3.17%,13.46
+,003849,21/09/2023,approved,contactless,mastercard,credit,1,BRL,15.90,0.50,3.14%,15.40
+PAYWAVE/VISA,330073,21/09/2023,approved,contactless,visa,credit,1,BRL,41.90,1.32,3.15%,40.58
+,118072,21/09/2023,approved,contactless,mastercard,credit,1,BRL,20.80,0.66,3.17%,20.14
+PAYWAVE/VISA,053338,20/09/2023,approved,contactless,visa,credit,1,BRL,42.80,1.35,3.15%,41.45
+JULIANA FRANCISCO DE OLIVE,297657,20/09/2023,approved,emv,elo,debit,1,BRL,31.00,0.80,2.58%,30.20
+KETHELIN C FERREIRA,621321,20/09/2023,approved,emv,visa,credit,1,BRL,3.00,0.09,3.00%,2.91
+PAYWAVE/VISA,000000,20/09/2023,backend_reversed,contactless,visa,credit,1,BRL,3.00,0.00,0.00%,3.00
+,289458,20/09/2023,approved,contactless,mastercard,credit,1,BRL,8.50,0.27,3.18%,8.23
+,405472,20/09/2023,approved,contactless,mastercard,debit,1,BRL,4.80,0.07,1.46%,4.73
+PAYWAVE/VISA,281152,20/09/2023,approved,contactless,visa,debit,1,BRL,20.00,0.28,1.40%,19.72
+,194410,19/09/2023,approved,contactless,mastercard,debit,1,BRL,28.80,0.40,1.39%,28.40
+,294666,19/09/2023,approved,contactless,mastercard,credit,1,BRL,12.00,0.38,3.17%,11.62
+,977692,19/09/2023,approved,contactless,mastercard,debit,1,BRL,7.00,0.10,1.43%,6.90
+PAYWAVE/VISA,259621,19/09/2023,approved,contactless,visa,debit,1,BRL,13.00,0.18,1.38%,12.82
+,203483,19/09/2023,approved,contactless,mastercard,debit,1,BRL,2.50,0.03,1.20%,2.47
+,763329,19/09/2023,approved,contactless,mastercard,debit,1,BRL,33.50,0.46,1.37%,33.04
+,498227,19/09/2023,approved,contactless,mastercard,debit,1,BRL,5.00,0.07,1.40%,4.93
+KETHELIN C FERREIRA,403644,19/09/2023,approved,emv,visa,credit,1,BRL,13.00,0.41,3.15%,12.59
+PAYWAVE/VISA,000000,19/09/2023,backend_reversed,contactless,visa,credit,1,BRL,13.00,0.00,0.00%,13.00
+,745141,18/09/2023,approved,contactless,mastercard,debit,1,BRL,5.00,0.07,1.40%,4.93
