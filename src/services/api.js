@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const apiCordeBurguer = axios.create({
-  baseURL: 'http://localhost:3001'
+  baseURL: 'https://code-burguer-api-production.up.railway.app'
 })
 
 apiCordeBurguer.interceptors.request.use(async (config) => {
