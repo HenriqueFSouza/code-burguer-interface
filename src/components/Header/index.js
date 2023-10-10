@@ -45,7 +45,9 @@ export function Header() {
           <img src={User} alt="logo da pessoa" />
         </PageLink>
         <ContainerText>
-          <p>Olá, {userData.name}</p>
+          <p>
+            Olá, <strong>{userData.name}</strong>
+          </p>
           <PageLinkExit onClick={handleLogout}>Sair</PageLinkExit>
         </ContainerText>
       </ContainerRight>
