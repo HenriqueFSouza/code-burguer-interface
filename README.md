@@ -55,6 +55,17 @@ $ yarn dev or npm run dev
 # The server will initialize in the <http://localhost:3000>
 ```
 
+## 🚀 Technologies
+- [Reactjs](https://react.dev/)
+- [ReactHooks](https://react.dev/reference/react/hooks)
+- [ReactHookForm](https://react-hook-form.com/)
+- [Yup](https://www.npmjs.com/package/yup)
+- [ReactRouterDom](https://reactrouter.com/en/main)
+- [Axios](https://axios-http.com/)
+- [MaterialUI](https://www.javascript.com/)
+- [Vercel](https://vercel.com/)
+
+
 ## 🤝 Collaborators
 
 Thanks to the following people who contributed to this project:
