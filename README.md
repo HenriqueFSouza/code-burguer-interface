@@ -3,10 +3,10 @@
 👉🏾 Check out the project on production: https://code-burguer-interface-henna.vercel.app/
 
 ### Users View
-![image](https://github.com/HenriqueFSouza/code-burguer-interface/assets/readme/gif.gif)
+![image](https://github.com/HenriqueFSouza/code-burguer-interface/blob/master/src/assets/readme/gif.gif)
 
 ### Admin View
-![image](https://github.com/HenriqueFSouza/code-burguer-interface/assets/readme/admin-gif.gif)
+![image](https://github.com/HenriqueFSouza/code-burguer-interface/blob/master/src/assets/readme/admin-gif.gif)
 
 ## ❔ What is the Code Burguer Project for?
 
