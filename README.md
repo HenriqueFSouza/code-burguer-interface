@@ -1,70 +1,73 @@
-# Getting Started with Create React App
+<h1>Code Burguer Project</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+👉🏾 Check out the project on production: https://code-burguer-interface-henna.vercel.app/
 
-## Available Scripts
+### Users View
+![image](https://github.com/HenriqueFSouza/code-burguer-interface/assets/readme/gif.gif)
 
-In the project directory, you can run:
+### Admin View
+![image](https://github.com/HenriqueFSouza/code-burguer-interface/assets/readme/admin-gif.gif)
 
-### `npm start`
+## ❔ What is the Code Burguer Project for?
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This is an application that was created to simulate a Hamburger Shop website where the Admin can manage their products and the clients can make their orders.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+It has a login and register page, the main screen with product categories and products on sale, besides a cart screen.
 
-### `npm test`
+## Main features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+🔐 Authentication by JWT: 
+It allows the users to have private routes and does not require email and password every time
 
-### `npm run build`
+➕ Create/Edit new products
+The admin can create products, add images, and edit them for sale or change some details
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+🧾 List of Categories and Products for the users:
+The user can add products easely to the cart by the products list
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+📝 Cart page: 
+This page allows the user remove or increase the product befero sending the order
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📁 Page(s)
 
-### `npm run eject`
+- **/: Home page with categries list and products on sale lest.
+- **/produtos: Page with all the products separeted by a navbar categories menu
+- **/carrinho: Cart page where the user can edit its order before sending
+- **/login & **/cadatro: Pages where users can login into the application or create a new account
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## :closed_book: How to use it?
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Before starting, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+# Clone this project
+$ git clone https://github.com/Dev-Pedrosv/trips-app.git
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# access
+$ cd trips-app
 
-## Learn More
+# install dependencies
+$ yarn or npm
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Run the project
+$ yarn dev or npm run dev
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# The server will initialize in the <http://localhost:3000>
+```
 
-### Code Splitting
+## 🤝 Collaborators
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Thanks to the following people who contributed to this project:
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/93978780?v=4" width="160px;" alt="Photo by Henrique Francisco on GitHub"/><br>
+        <sub>
+          <b>Henrique Francisco</b>
+        </sub>
+      </a>
+    </all>
+  </tr>
+</table>
