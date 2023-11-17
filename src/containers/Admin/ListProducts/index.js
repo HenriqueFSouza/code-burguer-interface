@@ -39,8 +39,6 @@ function ListProducts() {
     navigate('/editar-produto', { state: product })
   }
 
-  console.log(products)
-
   return (
     <Container>
       <TableContainer component={Paper}>
