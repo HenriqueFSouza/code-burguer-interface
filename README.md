@@ -23,17 +23,17 @@ It allows the users to have private routes and does not require email and passwo
 The admin can create products, add images, and edit them for sale or change some details
 
 🧾 List of Categories and Products for the users:
-The user can add products easely to the cart by the products list
+The user can easily add products to the cart by the products list
 
 📝 Cart page: 
-This page allows the user remove or increase the product befero sending the order
+This page allows the user to remove or increase the product before sending the order
 
 ## 📁 Page(s)
 
-- **/: Home page with categries list and products on sale lest.
-- **/produtos: Page with all the products separeted by a navbar categories menu
-- **/carrinho: Cart page where the user can edit its order before sending
-- **/login & **/cadatro: Pages where users can login into the application or create a new account
+- **/: Home page with categories list and products on sale least.
+- **/produtos: Page with all the products separated by a navbar categories menu
+- **/carrinho: Cart page where the user can edit their order before sending
+- **/login & **/cadastro: Pages where users can log into the application or create a new account
 
 ## :closed_book: How to use it?
 
@@ -41,7 +41,7 @@ Before starting, you need to have [Git](https://git-scm.com) and [Node](https://
 
 ```bash
 # Clone this project
-$ git clone https://github.com/Dev-Pedrosv/trips-app.git
+$ git clone https://github.com/HenriqueFSouza/code-burguer-interface.git
 
 # access
 $ cd trips-app
